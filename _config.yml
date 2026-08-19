@@ -1,5 +1,4 @@
 theme: minima
-  skin: auto
 title: Blog of Adrian Scheerer
 description: Some ideas I have come across recently
 author:
@@ -16,6 +15,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 minima:
+  skin: auto
   social_links:
     - title: GitHub
       icon: github
