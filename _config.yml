@@ -29,15 +29,6 @@ linkedin_username: adrianscheerer
 google_analytics: G-2RZ5WWSKDE
 # Build settings
 theme: minima
-# minima:
-#   skin: auto
-#   social_links:
-#     - title: GitHub
-#       icon: github
-#       url: "https://github.com/adrische"
-#     - title: LinkedIn
-#       icon: linkedin
-#       url: "https://www.linkedin.com/in/adrianscheerer"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -49,7 +40,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _ignore/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -64,9 +56,13 @@ lsi: false
 safe: true
 # source: '' don't need it
 incremental: false
-highlighter: rouge
 gist:
   noscript: false
+highlighter: rouge
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+
+# relevant commands:
+# bundle exec jekyll serve
