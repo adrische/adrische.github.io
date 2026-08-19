@@ -1,9 +1,23 @@
-theme: minima
 title: Blog of Adrian Scheerer
-description: Some ideas I have come across recently
 author:
   name: Adrian Scheerer
-  email: "adrianscheerer@gmail.com"
+  email: adrianscheerer@gmail.com
+description: Some ideas I have come across recently
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/adrische"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/adrianscheerer"
+  hide_site_feed_link: false  # `false` or `null` by default
+  show_excerpts: true
 lsi: false
 safe: true
 source: ''
@@ -14,14 +28,4 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-minima:
-  skin: auto
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/adrische"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/adrianscheerer"
-  hide_site_feed_link: true  # `false` or `null` by default
-  show_excerpts: true
+
