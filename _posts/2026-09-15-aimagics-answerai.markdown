@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LLM access from within Jupyter notebooks"
-date:   2026-06-19 12:07:03 +0200
+date:   2026-09-15 12:07:03 +0200
 ---
 
 I have recently come across [AnswerAI](https://answer.ai/), in particular their platform [SolveIt](https://solve.it.com/). It is a notebook-like interface that in addition to code and markdown cells has one additional type of cell, a prompt cell. Each prompt includes the current notebook up to that point as context. That allows you to get contextual help without leaving the notebook interface. They have also implemented all kinds of ways to get context into the notebook, from images, to screen sharing, to git repos.
