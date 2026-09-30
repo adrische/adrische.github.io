@@ -4,13 +4,11 @@ title:  "Hiring problems caused by AI"
 date:   2026-09-30 09:07:03 +0200
 ---
 
-There are a few problems on the job market right now, potentially caused or exacerbated by AI:
+There are a few problems on the job market right now, potentially caused or exacerbated by AI.
 
 Applicable (mainly) to employees:
-* Employees may need to change area, but:
-* they may not have relevant references for the new area,
-* they may not have contacts in the new area,
-* they may fall into certain exceptions from public unemployment benefit.
+* Employees may need to change their area of work, but they may not have directly relevant references or contacts in the new area.
+* Employees can fall into certain exceptions from public unemployment benefit.
 * Internships are mostly only for students.
 
 Applicable (mainly) to employers:
@@ -19,7 +17,7 @@ Applicable (mainly) to employers:
 
 Applicable to both:
 * The business environment is changing, old or established ways of doing things can be challenged.
-* Entire lines of can work fall away, either partly or completely. Lines of work need to be newly created, discovered, rethought, or combined.
+* Entire lines of work can fall away, either partly or completely. Lines of work need to be newly created, discovered, rethought, or combined.
 * Employers rely on formal certifications, evidence from work in related areas is not as accepted, but it's difficult to get formal work experience in a new area.
 * Employees may not know which roles and jobs exist to which they could transfer their skills, and employers may not now from which related fields to hire.
 
