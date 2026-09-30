@@ -43,4 +43,6 @@ Nobody should work on these problems alone, and it's much more fun together, whi
 
 If you are interested in contributing: [Please reach out to me.](mailto:adrianscheerer@gmail.com)
 
+<!--
 If you are interested in updates from the project: Please subscribe to the mailing list.
+-->
